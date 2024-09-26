@@ -1,4 +1,4 @@
-# Linear-Algerbra
+# Linear-Algebra
 
 The Sure Tomorrow insurance company wants to solve several tasks with the help of Machine Learning, and you are asked to evaluate that possibility.
 
